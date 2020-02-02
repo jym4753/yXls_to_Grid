@@ -1,0 +1,11 @@
+D:\programs\cs\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\bin\Debug\yXls_to_Grid.exe.config
+D:\programs\cs\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\bin\Debug\yXls_to_Grid.exe
+D:\programs\cs\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\bin\Debug\yXls_to_Grid.pdb
+D:\programs\cs\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\obj\Debug\yXls_to_Grid.csprojAssemblyReference.cache
+D:\programs\cs\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\obj\Debug\yXls_to_Grid.csproj.ResolveComReference.cache
+D:\programs\cs\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\obj\Debug\yXls_to_Grid.frmMain.resources
+D:\programs\cs\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\obj\Debug\yXls_to_Grid.Properties.Resources.resources
+D:\programs\cs\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\obj\Debug\yXls_to_Grid.csproj.GenerateResource.cache
+D:\programs\cs\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\obj\Debug\yXls_to_Grid.csproj.CoreCompileInputs.cache
+D:\programs\cs\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\obj\Debug\yXls_to_Grid.exe
+D:\programs\cs\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\yXls_to_Grid\obj\Debug\yXls_to_Grid.pdb
